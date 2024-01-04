@@ -77,12 +77,12 @@ Semua data Componen tersipan pada kimin.data[nama_componen] yang berbentuk list.
 
 Misalnya untuk mengganti text pada button 1 menjadi "Ubah Button 1"
 ```python
-    kimin.data['button'][0].configure(text="Ubah Button 1")
+    kimin.data['button'][0]['elemen'].configure(text="Ubah Button 1")
 ```
 
 Misalnya untuk menggambil value pada entry box 1
 ```python
-    print(kimin.data['entry'][0].get())
+    print(kimin.data['entry'][0]['elemen'].get())
 ```
 
 ## Componen
