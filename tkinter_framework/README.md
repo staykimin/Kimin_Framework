@@ -8,7 +8,9 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 - [Fitur](#Fitur)
 - [Version](#)
 - [Usage](#Usage)
-- [Componen Proprerties](#)
+- [Componen Properties](#)
+- [Config GUI](#Config-GUI)
+- [Trigger / Event Handler](#)
 
 ## Introduction
 
@@ -52,3 +54,13 @@ Digunakan untuk mengenerate Aplikasi gui ketika di klik
 ```
 
 Note : nama_project adalah nama project / aplikasi yang akan dibuat
+
+## Config GUI
+
+#### Layouting
+
+| Parameter | Type     | Description                | Example |
+| :-------- | :------- | :------------------------- | :------ |
+| `judul` | `string` | Judul Aplikasi | Aplikasi 1 |
+| `theme` | `enum("system", "dark", "light")` | Tema / Appearance Aplikasi | dark |
+| `resolusi` | `string` | Ukuran Resolusi Aplikasi ditetapkan data json x dan y dalam satuan px | {x:"400", y:"400"} |
