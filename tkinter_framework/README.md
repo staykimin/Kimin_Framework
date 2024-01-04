@@ -9,6 +9,12 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 ## Introduction
 
+###### Overview
+<p style="display: flex; justify-content: space-between;">
+    <img style="width: 48%;" src="foto/awal.PNG" />
+    <img style="width: 48%;" src="foto/generate.PNG" />
+    <img style="width: 48%;" src="foto/intro.PNG" />
+</p>
 
 ## Fitur
 - [Konfigurasi Layout Berbasis JSON](#)
