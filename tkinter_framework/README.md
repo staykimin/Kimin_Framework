@@ -59,6 +59,7 @@ Digunakan untuk mengenerate Aplikasi gui ketika di klik
 Note : nama_project adalah nama project / aplikasi yang akan dibuat
 
 ## Config Layout
+Lokasi File Config berada pada folder project/gui_config.min
 | Parameter | Type     | Description                | Example |
 | :-------- | :------- | :------------------------- | :------ |
 | `judul` | `string` | Judul Aplikasi | Aplikasi 1 |
@@ -66,7 +67,7 @@ Note : nama_project adalah nama project / aplikasi yang akan dibuat
 | `resolusi` | `string` | Ukuran Resolusi Aplikasi ditetapkan data json x dan y dalam satuan px | {x:"400", y:"400"} |
 
 ## Event Handler
-Semua data Componen tersipan pada kimin.data[nama_componen] yang berbentuk list. Pada Class ini defaultnya adalah 1 function digunakan untuk menghadle banyak componen dengan jenis yang sama
+Semua data Componen tersipan pada kimin.data[nama_componen] yang berbentuk list. Pada Class ini defaultnya adalah 1 function digunakan untuk menghadle banyak componen dengan jenis yang sama. Secara default lokasi Event Handler berada pada folder project/Event Trigger/trigger.py.
 
 Misalnya untuk mengganti text pada button 1 menjadi "Ubah Button 1"
 ```python
