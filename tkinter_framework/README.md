@@ -2,11 +2,21 @@
 
 Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus untuk mempermudah pengembangan aplikasi GUI Python berbasis Tkinter. Dengan fokus pada kemudahan penggunaan, framework ini memungkinkan pengembang untuk membuat antarmuka pengguna yang menarik dengan cepat dan efisien.
 
+## Fitur
+- Konfigurasi Layout Berbasis JSON
+- Konfigurasi Trigger / Event Handler Berbasis JSON
+- Generate Main App
+- Generate Default Trigger / Event Handler
+- Otomatis Install Packages
+
+## Version
+- [v1](#)
+
 # List Dokumen
 
 - [Introduction](#Introduction)
 - [Fitur](#Fitur)
-- [Version](#)
+- [Version](#Version)
 - [Usage](#Usage)
 - [Componen Properties](#)
 - [Config Layout](#Config-Layout)
@@ -40,13 +50,6 @@ Componen Area ditandai dengan nomor 2 pada gambar. Disini componen yang akan dit
 
 ###### Generate Button
 Digunakan untuk mengenerate Aplikasi gui ketika di klik
-
-## Fitur
-- Konfigurasi Layout Berbasis JSON
-- Konfigurasi Trigger / Event Handler Berbasis JSON
-- Generate Main App
-- Generate Default Trigger / Event Handler
-- Otomatis Install Packages
 
 ## Usage
 ``` bash
