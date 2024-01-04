@@ -4,8 +4,15 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 # List Dokumen
 
+- [Introduction](#)
+- [Fitur](#Fitur)
+
+## Introduction
+
+
+## Fitur
 - [Konfigurasi Layout Berbasis JSON](#)
 - [Konfigurasi Trigger / Event Handler Berbasis JSON](#)
 - [Generate Main App](#)
 - [Generate Default Trigger / Event Handler](#)
-- [Otomatis Install Packages](#)
+- [Otomatis Install Packages](#) 
