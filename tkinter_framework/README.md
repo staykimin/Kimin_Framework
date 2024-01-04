@@ -6,6 +6,9 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 - [Introduction](#Introduction)
 - [Fitur](#Fitur)
+- [Version](#)
+- [Usage](#Usage)
+- [Componen Proprerties](#)
 
 ## Introduction
 
@@ -42,3 +45,8 @@ Digunakan untuk mengenerate Aplikasi gui ketika di klik
 - Generate Main App
 - Generate Default Trigger / Event Handler
 - Otomatis Install Packages
+
+## Usage
+``` bash
+    Kimin Tkinter Framework v1 -p nama_project
+```
