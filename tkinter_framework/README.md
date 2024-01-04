@@ -23,9 +23,9 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 Terdapat 3 aspek utama dalam Framework ini, Yang meliputi :
 
-- [Working Area](#)
-- [Componen Area](#)
-- [Generate Button](#)
+- [Working Area](#Working-Area)
+- [Componen Area](#Componen-Area)
+- [Generate Button](#Generate-Button)
 
 ###### Working Area
 Working Area ditandai dengan nomor 1 pada gambar. Disinilah nanti layout yang akan digenerate pada aplikasi GUI dan tempat setiap komponen akan di tempatkan.
