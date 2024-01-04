@@ -12,6 +12,11 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 ## Version
 - [v1](https://www.mediafire.com/file/14kh9qko3dr4vmy/Kimin+Tkinter+Framework+v1.exe/file)
 
+## Support & Sponsor By
+<p style="display: flex; justify-content: space-between;">
+    <img style="width: 100%;" src="foto/infinity_digital.png" />
+</p>
+
 ## List Dokumen
 
 - [Introduction](#Introduction)
@@ -21,6 +26,7 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 - [Componen Properties](#Componen)
 - [Config Layout](#Config-Layout)
 - [Trigger / Event Handler](#Event-Handler)
+- [Feedback / Requests Fitur](#Feedback)
 
 ## Introduction
 
@@ -204,3 +210,10 @@ Parameter layout yang terdapat pada tiap-tiap componen di "gui_config.min"
 | `row` | `integer` | Baris | 2 |
 | `column` | `integer` | kolom | 2 |
 | `sticky` | `string` | Jika sel lebih besar dari widget, opsi sticky akan menentukan sisi mana widget harus ditempel dan cara mendistribusikan ruang ekstra di dalam sel yang tidak digunakan oleh widget pada ukuran aslinya | ew |
+
+
+## Feedback
+
+Jika kalian tertarik dan ingin di lanjutkan atau justru ingin request fitur tambahan lainnya, bisa langsung contact pada :
+
+- [Facebook](https://web.facebook.com/staykimin/?_rdc=1&_rdr)
