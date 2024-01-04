@@ -14,7 +14,7 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 ## Support & Sponsor By
 <p style="display: flex; justify-content: space-between;">
-    <img style="width: 100%;" src="foto/infinity_digital.png" />
+    <img style="width: 100%;" src="../foto/infinity_digital.png" />
 </p>
 
 ## List Dokumen
