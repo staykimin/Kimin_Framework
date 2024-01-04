@@ -9,12 +9,32 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 ## Introduction
 
-###### Overview
+#### Overview
 <p style="display: flex; justify-content: space-between;">
     <img style="width: 48%;" src="foto/awal.PNG" />
     <img style="width: 48%;" src="foto/generate.PNG" />
-    <img style="width: 48%;" src="foto/intro.PNG" />
+    <img style="width: 48%;" src="foto/config.PNG" />
 </p>
+
+#### Deskripsi
+<p style="display: flex; justify-content: space-between;">
+    <img style="width: 48%;" src="foto/intro.png" />
+</p>
+
+Terdapat 3 aspek utama dalam Framework ini, Yang meliputi :
+
+- [Working Area](#)
+- [Componen Area](#)
+- [Generate Button](#)
+
+###### Working Area
+Working Area ditandai dengan nomor 1 pada gambar. Disinilah nanti layout yang akan digenerate pada aplikasi GUI dan tempat setiap komponen akan di tempatkan.
+
+###### Componen Area
+Componen Area ditandai dengan nomor 2 pada gambar. Disini componen yang akan ditempatkan pada working area ketika componen di klik
+
+###### Generate Button
+Digunakan untuk mengenerate Aplikasi gui ketika di klik
 
 ## Fitur
 - [Konfigurasi Layout Berbasis JSON](#)
