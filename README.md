@@ -9,4 +9,4 @@ Framework Yang Dibuat Dari Tkinter Untuk Memudahkan Membuat Aplikasi GUI Berbasi
 
 # List Framework
 
-- [Tkinter Framework](#)
+- [Tkinter Framework](#tkinter_framework)
