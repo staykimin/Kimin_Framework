@@ -12,7 +12,7 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 ## Version
 - [v1](#)
 
-# List Dokumen
+## List Dokumen
 
 - [Introduction](#Introduction)
 - [Fitur](#Fitur)
@@ -20,7 +20,7 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 - [Usage](#Usage)
 - [Componen Properties](#)
 - [Config Layout](#Config-Layout)
-- [Trigger / Event Handler](#)
+- [Trigger / Event Handler](#Event-Handler)
 
 ## Introduction
 
@@ -64,3 +64,17 @@ Note : nama_project adalah nama project / aplikasi yang akan dibuat
 | `judul` | `string` | Judul Aplikasi | Aplikasi 1 |
 | `theme` | `enum("system", "dark", "light")` | Tema / Appearance Aplikasi | dark |
 | `resolusi` | `string` | Ukuran Resolusi Aplikasi ditetapkan data json x dan y dalam satuan px | {x:"400", y:"400"} |
+
+## Event Handler
+Semua data Componen tersipan pada kimin.data[nama_componen] yang berbentuk list. Pada Class ini defaultnya adalah 1 function digunakan untuk menghadle banyak componen dengan jenis yang sama
+
+Misalnya untuk mengganti text pada button 1 menjadi "Ubah Button 1"
+```python
+    kimin.data['button'][0].configure(text="Ubah Button 1")
+```
+
+Misalnya untuk menggambil value pada entry box 1
+```python
+    print(kimin.data['entry'][0].get())
+```
+
