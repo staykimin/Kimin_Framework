@@ -12,4 +12,4 @@ Kimin_Framework merupakan project untuk membuat berbagai macam framework yang di
 
 - [Tkinter Framework](tkinter_framework)
 - [Selenium Framework](selenium_framework)
-- Kivy Framework (Ongoing)
+- [Kivy Framework](kivy_framework)
