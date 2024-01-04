@@ -4,7 +4,7 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 
 # List Dokumen
 
-- [Introduction](#)
+- [Introduction](#Introduction)
 - [Fitur](#Fitur)
 
 ## Introduction
@@ -37,8 +37,8 @@ Componen Area ditandai dengan nomor 2 pada gambar. Disini componen yang akan dit
 Digunakan untuk mengenerate Aplikasi gui ketika di klik
 
 ## Fitur
-- [Konfigurasi Layout Berbasis JSON](#)
-- [Konfigurasi Trigger / Event Handler Berbasis JSON](#)
-- [Generate Main App](#)
-- [Generate Default Trigger / Event Handler](#)
-- [Otomatis Install Packages](#) 
+- Konfigurasi Layout Berbasis JSON
+- Konfigurasi Trigger / Event Handler Berbasis JSON
+- Generate Main App
+- Generate Default Trigger / Event Handler
+- Otomatis Install Packages
