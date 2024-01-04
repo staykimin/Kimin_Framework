@@ -1,6 +1,7 @@
-# Kimin_Frameworkv1
+# Kimin_Framework
 
-Framework Yang Dibuat Dari Tkinter Untuk Memudahkan Membuat Aplikasi GUI Berbasiskan Tkinter Dengan Python. Dengan Framework Ini, Membuat Aplikasi GUI Tkinter Bisa Semudah Edit Data JSON. Karena Semua Komponen dan Bahkan Trigger Event atau Command Disetiap Componen Diatur Sesuai Dengan Config JSON
+Kimin_Framework merupakan project untuk membuat berbagai macam framework yang digunakan untuk memudahkan dalam pembuatan software atau aplikasi
+
 
 # Support & Sponsor
 <p align="center">
