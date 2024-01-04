@@ -7,6 +7,6 @@ Framework Yang Dibuat Dari Tkinter Untuk Memudahkan Membuat Aplikasi GUI Berbasi
   <img width="100%" src="foto/infinity_digital.png"/>
 </p>
 
-# Download Framework
+# List Framework
 
-- [Get File](https://www.mediafire.com/file/cvns899xc12avw1/Kimin+Framework.exe/file)
+- [Tkinter Framework](#)
