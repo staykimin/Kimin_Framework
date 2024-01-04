@@ -82,6 +82,7 @@ Misalnya untuk menggambil value pada entry box 1
 ## Componen
 Untuk menghapus Componen pada Working Area klik kanan pada componen dan untuk mengedit properties pada componen klik kiri 2x pada componen. Untuk mengatur ukuran layout dari aplikasi, cukup resize framework saja. Ukuran layout aplikasi akan otomatis diambil dari ukuran Working Area Ketika diresize.
 
+Parameter Pada Properties tiap-tiap componen.
 ###### Button
 
 | Parameter | Input Type| Deskripsi                | Example |
@@ -195,7 +196,7 @@ Untuk menghapus Componen pada Working Area klik kanan pada componen dan untuk me
 | `Hover` | `boolean` | aktifkan/nonaktifkan efek hover: true, false | true |
 | `values` | `string` | daftar string dengan nilai yang muncul di menu dropdown | Laki-Laki,Perempuan |
 
-
+Parameter layout yang terdapat pada tiap-tiap componen di "gui_config.min"
 ###### Layout
 | Parameter | Input Type| Deskripsi                | Example |
 | :-------- | :-------- | :----------------------- | :------ |
