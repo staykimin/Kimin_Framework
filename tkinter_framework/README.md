@@ -48,5 +48,7 @@ Digunakan untuk mengenerate Aplikasi gui ketika di klik
 
 ## Usage
 ``` bash
-    Kimin Tkinter Framework v1 -p nama_project
+    "Kimin Tkinter Framework v1.exe" -p nama_project
 ```
+
+Note : nama_project adalah nama project / aplikasi yang akan dibuat
