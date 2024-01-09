@@ -10,7 +10,8 @@ Kimin Tkinter Framework adalah sebuah framework inovatif yang dirancang khusus u
 - Otomatis Install Packages
 
 ## Version
-- [v1](https://www.mediafire.com/file/14kh9qko3dr4vmy/Kimin+Tkinter+Framework+v1.exe/file)
+- v1
+- 
 
 ## Support & Sponsor By
 <p style="display: flex; justify-content: space-between;">
